@@ -9,3 +9,6 @@ table artist
 table album
 
 table track
+
+
+925 строк кода
